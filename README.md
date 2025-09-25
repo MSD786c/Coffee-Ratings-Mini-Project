@@ -1,4 +1,4 @@
-☕ Coffee Ratings EDA Project
+#☕ Coffee Ratings EDA Project
 <p align="center"> <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas" alt="Pandas Badge"/> <img src="https://img.shields.io/badge/Seaborn-Visualization-green?logo=python" alt="Seaborn Badge"/> <img src="https://img.shields.io/badge/Matplotlib-Charts-orange?logo=python" alt="Matplotlib Badge"/> <img src="https://img.shields.io/badge/Google%20Colab-Notebook-yellow?logo=googlecolab" alt="Colab Badge"/> </p>
 📖 Project Overview
 
