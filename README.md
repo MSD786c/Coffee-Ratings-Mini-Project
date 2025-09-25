@@ -1,4 +1,4 @@
-#☕ Coffee Ratings EDA Project
+☕ Coffee Ratings EDA Project
 <p align="center"> <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas" alt="Pandas Badge"/> <img src="https://img.shields.io/badge/Seaborn-Visualization-green?logo=python" alt="Seaborn Badge"/> <img src="https://img.shields.io/badge/Matplotlib-Charts-orange?logo=python" alt="Matplotlib Badge"/> <img src="https://img.shields.io/badge/Google%20Colab-Notebook-yellow?logo=googlecolab" alt="Colab Badge"/> </p>
 📖 Project Overview
 
@@ -7,13 +7,13 @@ The dataset contains expert reviews of Arabica coffee beans from around the worl
 
 The goal of this project is to perform Exploratory Data Analysis (EDA) to uncover:
 
-Which countries consistently produce the highest-rated coffee
+🌍 Which countries consistently produce the highest-rated coffee
 
-The relationships between sensory features (e.g., Aroma, Flavor)
+🔗 The relationships between sensory features (e.g., Aroma, Flavor)
 
-Distribution of coffee quality scores
+📈 Distribution of coffee quality scores
 
-Outliers and interesting insights
+📉 Outliers and unique insights
 
 📂 Dataset
 
@@ -23,11 +23,11 @@ File Used: arabica_data_cleaned.csv
 
 Key Features:
 
-Country.of.Origin – Country producing the coffee
+Country.of.Origin – Coffee-producing country
 
 Aroma, Flavor, Acidity, Body – Sensory scores (0–10)
 
-Overall – Overall rating given by experts
+Overall – Final quality rating by experts
 
 🔎 Analysis Steps
 
@@ -47,7 +47,7 @@ Visualizations
 
 📊 Bar chart: Top 10 countries by average rating
 
-🔥 Heatmap: Correlation between features
+🔥 Heatmap: Feature correlations
 
 📈 Histogram: Distribution of scores
 
@@ -59,7 +59,7 @@ Visualizations
 
 ☕ Aroma and Flavor are the strongest predictors of the Overall score
 
-📉 Distribution shows that most coffees score between 80–90 points, with few outliers
+📉 Distribution shows most coffees score between 80–90 points, with few outliers
 
 📸 Sample Visualizations
 <p align="center"> <img src="plots/top_countries.png" width="45%" alt="Top Countries"> <img src="plots/heatmap.png" width="45%" alt="Feature Correlation"> </p>
@@ -86,7 +86,7 @@ Install requirements:
 pip install pandas matplotlib seaborn
 
 
-Open the Jupyter/Colab notebook:
+Open the notebook:
 
 jupyter notebook coffee_ratings_eda.ipynb
 
