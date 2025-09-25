@@ -62,7 +62,7 @@ Visualizations
 📉 Distribution shows most coffees score between 80–90 points, with few outliers
 
 📸 Sample Visualizations
-<p align="center"> <img src="plots/top_countries.png" width="45%" alt="Top Countries"> <img src="plots/heatmap.png" width="45%" alt="Feature Correlation"> </p>
+<p align="center"> <img src="country_of_origin.png" width="45%" alt="Top Countries"> <img src="aroma.png" width="45%" alt="Feature Correlation"> </p>
 ⚙️ Tech Stack
 
 Python – Pandas, NumPy
