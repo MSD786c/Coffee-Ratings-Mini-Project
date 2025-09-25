@@ -77,7 +77,7 @@ Version Control – Git & GitHub
 
 Clone this repo:
 
-git clone https://github.com/your-username/coffee-ratings-eda.git
+git clone 
 cd coffee-ratings-eda
 
 
